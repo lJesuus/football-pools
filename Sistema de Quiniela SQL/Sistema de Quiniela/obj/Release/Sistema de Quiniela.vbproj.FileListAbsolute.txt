@@ -1,0 +1,15 @@
+C:\Users\clases\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\bin\Release\Sistema de Quiniela.exe
+C:\Users\clases\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\bin\Release\Sistema de Quiniela.pdb
+C:\Users\clases\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\bin\Release\Sistema de Quiniela.xml
+C:\Users\clases\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\bin\Release\MySql.Data.dll
+C:\Users\clases\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Release\ResolveAssemblyReference.cache
+C:\Users\clases\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Release\Sistema_de_Quiniela.Form1.resources
+C:\Users\clases\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Release\Sistema_de_Quiniela.Registro.resources
+C:\Users\clases\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Release\Sistema_de_Quiniela.Iniciar_Sesion.resources
+C:\Users\clases\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Release\Sistema_de_Quiniela.Usuarios.resources
+C:\Users\clases\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Release\Sistema_de_Quiniela.Quiniela.resources
+C:\Users\clases\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Release\Sistema_de_Quiniela.Resources.resources
+C:\Users\clases\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Release\Sistema de Quiniela.vbproj.GenerateResource.Cache
+C:\Users\clases\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Release\Sistema de Quiniela.exe
+C:\Users\clases\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Release\Sistema de Quiniela.xml
+C:\Users\clases\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Release\Sistema de Quiniela.pdb

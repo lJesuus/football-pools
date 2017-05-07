@@ -1,0 +1,114 @@
+C:\Users\Jesus Hernandez\AppData\Local\Temporary Projects\Sistema de Quiniela\bin\Debug\Sistema de Quiniela.exe
+C:\Users\Jesus Hernandez\AppData\Local\Temporary Projects\Sistema de Quiniela\bin\Debug\Sistema de Quiniela.pdb
+C:\Users\Jesus Hernandez\AppData\Local\Temporary Projects\Sistema de Quiniela\bin\Debug\Sistema de Quiniela.xml
+C:\Users\Jesus Hernandez\AppData\Local\Temporary Projects\Sistema de Quiniela\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jesus Hernandez\AppData\Local\Temporary Projects\Sistema de Quiniela\obj\Debug\Sistema_de_Quiniela.Form1.resources
+C:\Users\Jesus Hernandez\AppData\Local\Temporary Projects\Sistema de Quiniela\obj\Debug\Sistema_de_Quiniela.Resources.resources
+C:\Users\Jesus Hernandez\AppData\Local\Temporary Projects\Sistema de Quiniela\obj\Debug\Sistema de Quiniela.vbproj.GenerateResource.Cache
+C:\Users\Jesus Hernandez\AppData\Local\Temporary Projects\Sistema de Quiniela\obj\Debug\Sistema de Quiniela.exe
+C:\Users\Jesus Hernandez\AppData\Local\Temporary Projects\Sistema de Quiniela\obj\Debug\Sistema de Quiniela.xml
+C:\Users\Jesus Hernandez\AppData\Local\Temporary Projects\Sistema de Quiniela\obj\Debug\Sistema de Quiniela.pdb
+C:\Users\Jesus Hernandez\Desktop\Tercer Corte\Sistema de Quiniela\Sistema de Quiniela\obj\Debug\Sistema de Quiniela.exe
+C:\Users\Jesus Hernandez\Desktop\Tercer Corte\Sistema de Quiniela\Sistema de Quiniela\obj\Debug\Sistema de Quiniela.xml
+C:\Users\Jesus Hernandez\Desktop\Tercer Corte\Sistema de Quiniela\Sistema de Quiniela\obj\Debug\Sistema de Quiniela.pdb
+E:\Tercer Corte\Sistema de Quiniela\Sistema de Quiniela\obj\Debug\Sistema de Quiniela.exe
+E:\Tercer Corte\Sistema de Quiniela\Sistema de Quiniela\obj\Debug\Sistema de Quiniela.xml
+E:\Tercer Corte\Sistema de Quiniela\Sistema de Quiniela\obj\Debug\Sistema de Quiniela.pdb
+E:\Tercer Corte\Sistema de Quiniela\Sistema de Quiniela\bin\Debug\Sistema de Quiniela.exe
+E:\Tercer Corte\Sistema de Quiniela\Sistema de Quiniela\bin\Debug\Sistema de Quiniela.pdb
+E:\Tercer Corte\Sistema de Quiniela\Sistema de Quiniela\bin\Debug\Sistema de Quiniela.xml
+E:\Tercer Corte\Sistema de Quiniela\Sistema de Quiniela\obj\Debug\ResolveAssemblyReference.cache
+E:\Tercer Corte\Sistema de Quiniela\Sistema de Quiniela\obj\Debug\Sistema_de_Quiniela.Form1.resources
+E:\Tercer Corte\Sistema de Quiniela\Sistema de Quiniela\obj\Debug\Sistema_de_Quiniela.Resources.resources
+E:\Tercer Corte\Sistema de Quiniela\Sistema de Quiniela\obj\Debug\Sistema de Quiniela.vbproj.GenerateResource.Cache
+C:\Users\clases\Desktop\Tercer Corte\Sistema de Quiniela\Sistema de Quiniela\obj\Debug\Sistema de Quiniela.exe
+C:\Users\clases\Desktop\Tercer Corte\Sistema de Quiniela\Sistema de Quiniela\obj\Debug\Sistema de Quiniela.xml
+C:\Users\clases\Desktop\Tercer Corte\Sistema de Quiniela\Sistema de Quiniela\obj\Debug\Sistema de Quiniela.pdb
+C:\Users\clases\Desktop\Tercer Corte\Sistema de Quiniela\Sistema de Quiniela\bin\Debug\Sistema de Quiniela.exe
+C:\Users\clases\Desktop\Tercer Corte\Sistema de Quiniela\Sistema de Quiniela\bin\Debug\Sistema de Quiniela.pdb
+C:\Users\clases\Desktop\Tercer Corte\Sistema de Quiniela\Sistema de Quiniela\bin\Debug\Sistema de Quiniela.xml
+C:\Users\clases\Desktop\Tercer Corte\Sistema de Quiniela\Sistema de Quiniela\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\clases\Desktop\Tercer Corte\Sistema de Quiniela\Sistema de Quiniela\obj\Debug\Sistema_de_Quiniela.Resources.resources
+C:\Users\clases\Desktop\Tercer Corte\Sistema de Quiniela\Sistema de Quiniela\obj\Debug\Sistema de Quiniela.vbproj.GenerateResource.Cache
+C:\Users\Jesus Hernandez\Desktop\Tercer Corte\Sistema de Quiniela\Sistema de Quiniela\bin\Debug\Sistema de Quiniela.exe
+C:\Users\Jesus Hernandez\Desktop\Tercer Corte\Sistema de Quiniela\Sistema de Quiniela\bin\Debug\Sistema de Quiniela.pdb
+C:\Users\Jesus Hernandez\Desktop\Tercer Corte\Sistema de Quiniela\Sistema de Quiniela\bin\Debug\Sistema de Quiniela.xml
+C:\Users\Jesus Hernandez\Desktop\Tercer Corte\Sistema de Quiniela\Sistema de Quiniela\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jesus Hernandez\Desktop\Tercer Corte\Sistema de Quiniela\Sistema de Quiniela\obj\Debug\Sistema_de_Quiniela.Resources.resources
+C:\Users\Jesus Hernandez\Desktop\Tercer Corte\Sistema de Quiniela\Sistema de Quiniela\obj\Debug\Sistema de Quiniela.vbproj.GenerateResource.Cache
+C:\Users\clases\Desktop\Tercer Corte\Sistema de Quiniela\Sistema de Quiniela\obj\Debug\Sistema_de_Quiniela.Quiniela.resources
+C:\Users\clases\Desktop\Tercer Corte\Sistema de Quiniela\Sistema de Quiniela\obj\Debug\Sistema_de_Quiniela.Usuarios.resources
+C:\Users\clases\Desktop\Tercer Corte\Sistema de Quiniela\Sistema de Quiniela\obj\Debug\Sistema_de_Quiniela.Registro.resources
+C:\Users\clases\Desktop\Tercer Corte\Sistema de Quiniela\Sistema de Quiniela\obj\Debug\Sistema_de_Quiniela.Iniciar_Sesion.resources
+C:\Users\Jesus Hernandez\Desktop\Tercer Corte\Sistema de Quiniela\Sistema de Quiniela\obj\Debug\Sistema_de_Quiniela.Registro.resources
+C:\Users\Jesus Hernandez\Desktop\Tercer Corte\Sistema de Quiniela\Sistema de Quiniela\obj\Debug\Sistema_de_Quiniela.Iniciar_Sesion.resources
+C:\Users\Jesus Hernandez\Desktop\Tercer Corte\Sistema de Quiniela\Sistema de Quiniela\obj\Debug\Sistema_de_Quiniela.Usuarios.resources
+C:\Users\Jesus Hernandez\Desktop\Tercer Corte\Sistema de Quiniela\Sistema de Quiniela\obj\Debug\Sistema_de_Quiniela.Quiniela.resources
+C:\Users\Jesus Hernandez\Desktop\Tercer Corte\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema de Quiniela.exe
+C:\Users\Jesus Hernandez\Desktop\Tercer Corte\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema de Quiniela.xml
+C:\Users\Jesus Hernandez\Desktop\Tercer Corte\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema de Quiniela.pdb
+C:\Users\Jesus Hernandez\Desktop\Tercer Corte\Sistema de Quiniela SQL\Sistema de Quiniela\bin\Debug\Sistema de Quiniela.exe
+C:\Users\Jesus Hernandez\Desktop\Tercer Corte\Sistema de Quiniela SQL\Sistema de Quiniela\bin\Debug\Sistema de Quiniela.pdb
+C:\Users\Jesus Hernandez\Desktop\Tercer Corte\Sistema de Quiniela SQL\Sistema de Quiniela\bin\Debug\Sistema de Quiniela.xml
+C:\Users\Jesus Hernandez\Desktop\Tercer Corte\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jesus Hernandez\Desktop\Tercer Corte\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema_de_Quiniela.Registro.resources
+C:\Users\Jesus Hernandez\Desktop\Tercer Corte\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema_de_Quiniela.Iniciar_Sesion.resources
+C:\Users\Jesus Hernandez\Desktop\Tercer Corte\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema_de_Quiniela.Usuarios.resources
+C:\Users\Jesus Hernandez\Desktop\Tercer Corte\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema_de_Quiniela.Quiniela.resources
+C:\Users\Jesus Hernandez\Desktop\Tercer Corte\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema_de_Quiniela.Resources.resources
+C:\Users\Jesus Hernandez\Desktop\Tercer Corte\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema de Quiniela.vbproj.GenerateResource.Cache
+C:\Users\clases\Desktop\Tercer Corte\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema de Quiniela.exe
+C:\Users\clases\Desktop\Tercer Corte\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema de Quiniela.xml
+C:\Users\clases\Desktop\Tercer Corte\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema de Quiniela.pdb
+C:\Users\clases\Desktop\Tercer Corte\Sistema de Quiniela SQL\Sistema de Quiniela\bin\Debug\Sistema de Quiniela.exe
+C:\Users\clases\Desktop\Tercer Corte\Sistema de Quiniela SQL\Sistema de Quiniela\bin\Debug\Sistema de Quiniela.pdb
+C:\Users\clases\Desktop\Tercer Corte\Sistema de Quiniela SQL\Sistema de Quiniela\bin\Debug\Sistema de Quiniela.xml
+C:\Users\clases\Desktop\Tercer Corte\Sistema de Quiniela SQL\Sistema de Quiniela\bin\Debug\MySql.Data.dll
+C:\Users\clases\Desktop\Tercer Corte\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\clases\Desktop\Tercer Corte\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema_de_Quiniela.Registro.resources
+C:\Users\clases\Desktop\Tercer Corte\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema_de_Quiniela.Iniciar_Sesion.resources
+C:\Users\clases\Desktop\Tercer Corte\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema_de_Quiniela.Usuarios.resources
+C:\Users\clases\Desktop\Tercer Corte\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema_de_Quiniela.Quiniela.resources
+C:\Users\clases\Desktop\Tercer Corte\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema_de_Quiniela.Resources.resources
+C:\Users\clases\Desktop\Tercer Corte\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema de Quiniela.vbproj.GenerateResource.Cache
+C:\Users\Jesus Hernandez\Desktop\Tercer Corte\Sistema de Quiniela SQL\Sistema de Quiniela\bin\Debug\MySql.Data.dll
+C:\Users\clases\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema de Quiniela.exe
+C:\Users\clases\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema de Quiniela.xml
+C:\Users\clases\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema de Quiniela.pdb
+C:\Users\clases\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\bin\Debug\Sistema de Quiniela.exe
+C:\Users\clases\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\bin\Debug\Sistema de Quiniela.pdb
+C:\Users\clases\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\bin\Debug\Sistema de Quiniela.xml
+C:\Users\clases\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\bin\Debug\MySql.Data.dll
+C:\Users\clases\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\clases\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema_de_Quiniela.Form1.resources
+C:\Users\clases\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema_de_Quiniela.Form2.resources
+C:\Users\clases\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema_de_Quiniela.Registro.resources
+C:\Users\clases\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema_de_Quiniela.Iniciar_Sesion.resources
+C:\Users\clases\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema_de_Quiniela.Usuarios.resources
+C:\Users\clases\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema_de_Quiniela.Quiniela.resources
+C:\Users\clases\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema_de_Quiniela.Resources.resources
+C:\Users\clases\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema de Quiniela.vbproj.GenerateResource.Cache
+C:\Users\Jesus Hernandez\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema de Quiniela.exe
+C:\Users\Jesus Hernandez\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema de Quiniela.xml
+C:\Users\Jesus Hernandez\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema de Quiniela.pdb
+C:\Users\Jesus Hernandez\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\bin\Debug\Sistema de Quiniela.exe
+C:\Users\Jesus Hernandez\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\bin\Debug\Sistema de Quiniela.pdb
+C:\Users\Jesus Hernandez\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\bin\Debug\Sistema de Quiniela.xml
+C:\Users\Jesus Hernandez\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\bin\Debug\MySql.Data.dll
+C:\Users\Jesus Hernandez\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jesus Hernandez\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema_de_Quiniela.Registro.resources
+C:\Users\Jesus Hernandez\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema_de_Quiniela.Iniciar_Sesion.resources
+C:\Users\Jesus Hernandez\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema_de_Quiniela.Usuarios.resources
+C:\Users\Jesus Hernandez\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema_de_Quiniela.Quiniela.resources
+C:\Users\Jesus Hernandez\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema_de_Quiniela.Resources.resources
+C:\Users\Jesus Hernandez\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema de Quiniela.vbproj.GenerateResource.Cache
+C:\Users\Jesus Hernandez\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema_de_Quiniela.Ir_a.resources
+C:\Users\Jesus Hernandez\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema_de_Quiniela.Jornada.resources
+C:\Users\Jesus Hernandez\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema_de_Quiniela.Confirma.resources
+C:\Users\Jesus Hernandez\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema_de_Quiniela.Factura.resources
+C:\Users\Jesus Hernandez\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema_de_Quiniela.Admin.resources
+C:\Users\Jesus Hernandez\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema_de_Quiniela.Manual.resources
+C:\Users\Jesus Hernandez\Desktop\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema_de_Quiniela.Premio.resources
+C:\Users\Jesus Hernandez\Desktop\Programas\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema de Quiniela.exe
+C:\Users\Jesus Hernandez\Desktop\Programas\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema de Quiniela.xml
+C:\Users\Jesus Hernandez\Desktop\Programas\Sistema de Quiniela SQL\Sistema de Quiniela\obj\Debug\Sistema de Quiniela.pdb
